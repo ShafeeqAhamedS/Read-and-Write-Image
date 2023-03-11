@@ -19,9 +19,9 @@ Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
 ## Program:
-**Developed By: Shafeeq Ahamed.S**
+**Developed By:** Shafeeq Ahamed.S
 <br/>
-**Register Number: 212221230092**
+**Register Number:** 212221230092
 ### i) Read and display the image
 ```py
 import cv2

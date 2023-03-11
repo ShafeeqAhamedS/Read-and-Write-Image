@@ -22,6 +22,9 @@ End the program and close the output image windows.
 **Developed By:** Shafeeq Ahamed.S
 <br/>
 **Register Number:** 212221230092
+<br/>
+<br/>
+<br/>
 ### i) Read and display the image
 ```py
 import cv2
@@ -73,20 +76,20 @@ cv2.waitKey(0)
 ### i) Read and display the image
 <img width="550" alt="image" src="./read_img.png">
 
-### ii)Write the image
+### ii) Write the image
 <img width="550" alt="image" src="./write_pic.png">
 
-### iii)Shape of the Image
+### iii) Shape of the Image
 <img width= "550" alt="image" src="./size.png">
 
 <br/>
 <br/> 
 
 
-### iv)Access rows and columns
+### iv) Access rows and columns
 <img width="550" alt="image" src="./row_pic.png">
 
-### v)Cut and paste portion of image
+### v) Cut and paste portion of image
 <img width="550" alt="image" src="./cut_pic.png">
 
 ## Result:

@@ -56,19 +56,19 @@ cv2.waitKey(0)
 ## Output:
 
 ### i) Read and display the image
-![Read IMG](./read_img.png)
+<img width="300" alt="image" src="./read_img.png">
 
 ### ii)Write the image
-![Write IMG](./write_pic.png)
+<img width="300" alt="image" src="./write_pic.png">
 
 ### iii)Shape of the Image
-![Shape](./size.png)
+<img width="300" alt="image" src="./size.png">
 
 ### iv)Access rows and columns
-![Rows](./row_pic.png)
+<img width="300" alt="image" src="./row_pic.png">
 
 ### v)Cut and paste portion of image
-![Cut](./cut_pic.png)
+<img width="300" alt="image" src="./cut_pic.png">
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.

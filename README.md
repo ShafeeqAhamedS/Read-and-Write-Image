@@ -1,4 +1,4 @@
-# READ AND WRITE AN IMAGE
+# <p align="center">READ AND WRITE AN IMAGE</p>
 ## AIM
 To write a python program using OpenCV to do the following image manipulations.
 1. Read, display, and write an image.
@@ -19,8 +19,9 @@ Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
 ## Program:
-Developed By: Shafeeq Ahamed.S</br>
-Register Number: 212221230092
+**Developed By: Shafeeq Ahamed.S**
+<br/>
+**Register Number: 212221230092**
 ### i) Read and display the image
 ```py
 import cv2
@@ -52,23 +53,41 @@ img[700:1000,600:900] = img[300:600,1100:1400]
 cv2.imshow("cut_pic.png",img)
 cv2.waitKey(0)
 ```
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/> 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Output:
 
 ### i) Read and display the image
-<img width="450" alt="image" src="./read_img.png">
+<img width="550" alt="image" src="./read_img.png">
 
 ### ii)Write the image
-<img width="450" alt="image" src="./write_pic.png">
+<img width="550" alt="image" src="./write_pic.png">
 
 ### iii)Shape of the Image
-<img width="450" alt="image" src="./size.png">
+<img width= "550" alt="image" src="./size.png">
+
+<br/>
+<br/> 
+
 
 ### iv)Access rows and columns
-<img width="450" alt="image" src="./row_pic.png">
+<img width="550" alt="image" src="./row_pic.png">
 
 ### v)Cut and paste portion of image
-<img width="450" alt="image" src="./cut_pic.png">
+<img width="550" alt="image" src="./cut_pic.png">
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.

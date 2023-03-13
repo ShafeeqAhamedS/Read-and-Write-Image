@@ -32,6 +32,7 @@ import cv2
 img = cv2.imread("aot.png")
 cv2.imshow("read_pic",img)
 cv2.waitKey(0)
+cv2.destroyAllWindows()
 ```
 ### ii) To write the image
 ```py
@@ -49,12 +50,14 @@ for i in range(350,400):
         img[i][j] = [104, 104, 104]
 cv2.imshow("row_pic.png",img)
 cv2.waitKey(0)
+cv2.destroyAllWindows()
 ```
 ### v) To cut and paste portion of image
 ```py
 img[700:1000,600:900] = img[300:600,1100:1400]
 cv2.imshow("cut_pic.png",img)
 cv2.waitKey(0)
+cv2.destroyAllWindows()
 ```
 <br/>
 <br/>
